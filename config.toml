@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://words.ryil.tk/"
 languageCode = "en-us"
 title = "Yilin的零散坑"
 theme = "ananke"
